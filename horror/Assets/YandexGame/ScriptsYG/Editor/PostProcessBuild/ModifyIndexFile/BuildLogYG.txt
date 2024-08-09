@@ -1,0 +1,2 @@
+Build path: D:/Билды/тестит
+Build number: 2
