@@ -623,7 +623,7 @@ PlayerSettings:
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
-  webGLTemplate: PROJECT:PluginYG
+  webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
   webGLCompressionFormat: 0
@@ -647,7 +647,7 @@ PlayerSettings:
     PS5: UNITY_POST_PROCESSING_STACK_V2
     QNX: UNITY_POST_PROCESSING_STACK_V2
     Stadia: UNITY_POST_PROCESSING_STACK_V2
-    Standalone: CROSS_PLATFORM_INPUT;UNITY_POST_PROCESSING_STACK_V2
+    Standalone: CROSS_PLATFORM_INPUT;UNITY_POST_PROCESSING_STACK_V2;YG_PLUGIN_YANDEX_GAME
     VisionOS: UNITY_POST_PROCESSING_STACK_V2
     WebGL: UNITY_POST_PROCESSING_STACK_V2;YG_PLUGIN_YANDEX_GAME
     Windows Store Apps: MOBILE_INPUT

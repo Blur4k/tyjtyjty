@@ -109,7 +109,7 @@ public class EnemyController : MonoBehaviour
     void StartJumpscare()
     {
         Debug.Log("Starting jumpscare");
-        player.gameObject.SetActive(false);
+        //player.gameObject.SetActive(false);
         animator.ResetTrigger("run");
         animator.SetTrigger("jumpscare");
         PlaySound(catchSound);
